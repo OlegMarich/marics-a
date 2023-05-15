@@ -944,11 +944,15 @@ h6 {
 }
 
 @media (any-hover: hover) {
-  .header__menu:hover {
+  .header__language_ua:hover {
     text-decoration: underline;
   }
 
   .header__language:hover {
+    text-decoration: underline;
+  }
+
+  .menu__item:hover {
     text-decoration: underline;
   }
 
